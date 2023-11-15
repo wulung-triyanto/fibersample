@@ -1,4 +1,4 @@
-module quickwin
+module github.com/wulung-triyanto/fibersample
 
 go 1.21.4
 
